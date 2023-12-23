@@ -1,1 +1,1 @@
-Pizza Restaurant webpage created by figma.
+Pizza Restaurant webpage created using figma.
